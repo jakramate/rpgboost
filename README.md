@@ -5,4 +5,4 @@ Reeve H, Kaban A, Bootkrajang J. Heterogeneous Sets in Dimensionality Reduction 
 
 The main files are
 - rpGBoost/run_script_RASE.m  (for single label classification)
-- rpGBoost_multi/run_script_multilabel.m (for multi-label classification)
+- rpGBoost_multilabel/run_script_multilabel.m (for multi-label classification)
